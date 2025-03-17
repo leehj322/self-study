@@ -1,9 +1,7 @@
+import MyComponent from "./use-state/myComponent";
+
 function App() {
-  return (
-    <>
-      <div>Hi</div>
-    </>
-  );
+  return <MyComponent />;
 }
 
 export default App;
